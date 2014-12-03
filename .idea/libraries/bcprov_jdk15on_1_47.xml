@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="bcprov-jdk15on-1.47">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/bcprov-jdk15on-1.47.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/json-20090211.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lcrypto-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/Pubnub-Android-3.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
